@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "complexity": 600,
+        "urgency": 500,
+        "marketVolume": 100,
+        "strategicAmbition": 500,
+        "riskOfMissingOut": 1000,
+        "strategicBenefit": 250,
+        "name": "Test Data"
+    },
+    {
+        "id": 2,
+        "complexity": 640,
+        "urgency": 230,
+        "marketVolume": 100,
+        "strategicAmbition": 900,
+        "riskOfMissingOut": 100,
+        "strategicBenefit": 650,
+        "name": "THis this"
+    },
+    {
+        "id": 3,
+        "complexity": 160,
+        "urgency": 370,
+        "marketVolume": 900,
+        "strategicAmbition": 780,
+        "riskOfMissingOut": 590,
+        "strategicBenefit": 230,
+        "name": "World"
+    },
+    {
+        "id": 4,
+        "complexity": 672,
+        "urgency": 349,
+        "marketVolume": 240,
+        "strategicAmbition": 90,
+        "riskOfMissingOut": 350,
+        "strategicBenefit": 781,
+        "name": "Mill"
+    },
+    {
+        "id": 5,
+        "complexity": 672,
+        "urgency": 349,
+        "marketVolume": 400,
+        "strategicAmbition": 860,
+        "riskOfMissingOut": 210,
+        "strategicBenefit": 720,
+        "name": "Cole"
+    },
+    {
+        "id": 6,
+        "complexity": 672,
+        "urgency": 349,
+        "marketVolume": 250,
+        "strategicAmbition": 170,
+        "riskOfMissingOut": 450,
+        "strategicBenefit": 690,
+        "name": "Kenken"
+    },
+    {
+        "id": 7,
+        "complexity": 300,
+        "urgency": 830,
+        "marketVolume": 250,
+        "strategicAmbition": 170,
+        "riskOfMissingOut": 450,
+        "strategicBenefit": 530,
+        "name": "Parteek"
+    },
+    {
+        "id": 8,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 410,
+        "strategicAmbition": 300,
+        "riskOfMissingOut": 450,
+        "strategicBenefit": 700,
+        "name": "Kuhad"
+    },
+    {
+        "id": 9,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 100,
+        "strategicAmbition": 500,
+        "riskOfMissingOut": 1000,
+        "strategicBenefit": 250,
+        "name": "Goby"
+    },
+    {
+        "id": 10,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 700,
+        "strategicAmbition": 200,
+        "riskOfMissingOut": 600,
+        "strategicBenefit": 690,
+        "name": "Loneee"
+    },
+    {
+        "id": 11,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 700,
+        "strategicAmbition": 200,
+        "riskOfMissingOut": 300,
+        "strategicBenefit": 680,
+        "name": "Own"
+    }
+]
