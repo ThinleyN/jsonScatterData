@@ -49,5 +49,64 @@
         "strategicBenefit": 720,
         "name": "Cole"
     },
-   
+    {
+        "id": 6,
+        "complexity": 672,
+        "urgency": 349,
+        "marketVolume": 250,
+        "strategicAmbition": 170,
+        "riskOfMissingOut": 450,
+        "strategicBenefit": 690,
+        "name": "Kenken"
+    },
+    {
+        "id": 7,
+        "complexity": 300,
+        "urgency": 830,
+        "marketVolume": 250,
+        "strategicAmbition": 170,
+        "riskOfMissingOut": 450,
+        "strategicBenefit": 530,
+        "name": "Parteek"
+    },
+    {
+        "id": 8,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 410,
+        "strategicAmbition": 300,
+        "riskOfMissingOut": 450,
+        "strategicBenefit": 700,
+        "name": "Kuhad"
+    },
+    {
+        "id": 9,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 100,
+        "strategicAmbition": 500,
+        "riskOfMissingOut": 1000,
+        "strategicBenefit": 250,
+        "name": "Goby"
+    },
+    {
+        "id": 10,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 700,
+        "strategicAmbition": 200,
+        "riskOfMissingOut": 600,
+        "strategicBenefit": 690,
+        "name": "Loneee"
+    },
+    {
+        "id": 11,
+        "complexity": 400,
+        "urgency": 600,
+        "marketVolume": 700,
+        "strategicAmbition": 200,
+        "riskOfMissingOut": 300,
+        "strategicBenefit": 680,
+        "name": "Own"
+    }
 ]
